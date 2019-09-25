@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{10996EAF-D7F7-879A-06EE-76BB2EBB312F}|">
-  <MonoDevelop.Ide.ItemProperties.DrawLineDemo PreferredExecutionTarget="4300b6ee-2f0c-426b-8b5f-4e0efb3bdcc2" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DrawLine.cs">
+  <MonoDevelop.Ide.ItemProperties.DrawLineDemo PreferredExecutionTarget="9013d7ea-1fa2-4f49-8644-69a12f53096d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Drawing.cs">
     <Files>
-      <File FileName="Assets/DrawLine.cs" Line="126" Column="21" />
+      <File FileName="Assets/Drawing.cs" Line="19" Column="6" />
+      <File FileName="Assets/IDraw.cs" Line="9" Column="24" />
+      <File FileName="Assets/DrawBrush.cs" Line="44" Column="62" />
+      <File FileName="Assets/DrawEraser.cs" Line="24" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DrawLineDemo" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="DrawLine.cs" selected="True" />
+              <Node name="Drawing.cs" selected="True" />
             </Node>
           </Node>
         </State>
